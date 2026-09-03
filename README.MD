@@ -1,7 +1,7 @@
 ## BURP SUITE 
-## ACCESS CONTROL 
+## ACCESS CONTROL (SERVER SIDE)
 
--> Access control OCCUR  when an appliaction is fail to properly enforce what authentiacte user  are allowed to access or perform 
+-> Access control  vulnerability occur when an appliaction is fail to properly enforce what authentiacte user  are allowed to access or perform 
 
 > Access control IMPACT
 * Unathurized access to high priveldged account 
@@ -10,21 +10,16 @@
 
 > TYPES OF ACCESS CONTROL 
 1. VERTICAL ESCALATION
-
-
-
-
+   -> unprotected functionality 
+   ->parameter access based
+   -> broken access control from platform misconfigure
+   -> url discrepancies
 
 
 2. HORIZONTAL ESCALATION 
    -> REFER BASED 
    -> LOCATION BASED
-   -> URL PARAMATER 
-   ->  
+   -> IDOR / BOLA
 
-
-
-
-
-3. IDOR/BOLA
-4. 
+4. MULTI - STEP PROCESS BYPASS
+5. METHOD-BASED ACCESS CONTROL
