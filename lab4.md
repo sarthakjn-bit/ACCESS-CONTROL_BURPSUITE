@@ -33,5 +33,6 @@ Successfully accessed the admin functionality as a low-privileged user.
 
 Access control must be properly validated and the check the role and permission related to users. 
 
-proof of concept !["header code "](image.png).
-![solved lab ](image-1.png)
+proof of concept 
+!["header code "](lab4vertical.png).
+![solved lab ](lab4vertical1.png)
